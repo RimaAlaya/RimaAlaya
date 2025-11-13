@@ -114,7 +114,7 @@ When I'm not debugging or training models, you'll find me:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.](https://)linkedin.com/in/rima-alaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rima-alaya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimaalaya76@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
