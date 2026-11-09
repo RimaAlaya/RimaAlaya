@@ -1,133 +1,56 @@
-# 👋 Hey, I'm Rima
+# Hi, I'm Rima 👋
 
-<div align="center">
-  
-  **`Engineering Graduate • AI/MLOps Explorer • Builder of Things That (Usually) Work`**
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Embedded+Systems+%E2%9A%99%EF%B8%8F;Machine+Learning+%F0%9F%A7%A0;MLOps+%26+Automation+%F0%9F%9A%80;Coffee-Powered+Developer+%E2%98%95)
+**AI Engineer** · I build LLM agents, AI pipelines, and the cloud infrastructure that keeps them running in production.
 
-</div>
+I'm currently a freelance AI engineer, designing, shipping, and maintaining AI systems that clients use every day, from a Slack-based content agent to large-scale image processing on Google Cloud. I come from an embedded systems background, so I like understanding systems end to end, not just the model in the middle.
+
+📫 **Open to freelance missions and AI engineering roles** · [Portfolio](https://rima-alaya.github.io) · [LinkedIn](https://linkedin.com/in/rima-alaya) · [Malt](https://www.malt.fr/profile/rimaalaya) · [Email](mailto:rimaalaya76@gmail.com)
 
 ---
 
-## 🌟 Who Am I?
+## 🛠️ Stack
 
-I'm an engineer who started with **circuits and sensors** and fell head-over-heels for **AI and intelligent systems**. My journey from *Microsystems & Embedded Systems* led me to the beautiful chaos where **hardware meets machine learning**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_/_Vertex_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-```python
-class Rima:
-    def __init__(self):
-        self.background = "Microsystems & Embedded Systems Engineering"
-        self.current_focus = ["AI/ML", "MLOps", "Automation"]
-        self.philosophy = "Learn fast. Build smart. Stay curious."
-        self.debug_fuel = "☕ Coffee (lots of it)"
-        
-    def what_i_do(self):
-        return [
-            "Build AI pipelines that actually deploy",
-            "Tinker with IoT and embedded systems",
-            "Automate the boring stuff",
-            "Turn coffee into code (with variable success rates)"
-        ]
-```
-
-**Real talk:** I've built smart locks with ESP32, dove into IoT systems, and now I'm obsessed with **ML pipelines, model deployment, and making things production-ready**. Sometimes it works on the first try. Sometimes it's 3 AM and I'm Googling "why does my model hate me" 😅
+- **AI & LLMs:** Gemini on Vertex AI, `google-genai` SDK, LLM agents, prompt design, batch inference
+- **Backend & integrations:** Python, FastAPI, Slack API, WordPress REST API, Google Apps Script
+- **Cloud & DevOps:** GCP (Compute Engine, Vertex AI), Docker, Linux servers, GitHub Actions
+- **ML foundations:** scikit-learn, TensorFlow, pandas, MLflow
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🚀 Selected work
 
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
+Most of my professional work lives in private client repositories. Here's an overview; full case studies are on my [portfolio](https://rima-alaya.github.io).
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+**AI SEO content agent**
+A Slack-native agent that writes and publishes SEO articles to 23 client WordPress sites, powered by Gemini 2.5 Pro on Vertex AI. I built core features (including a product comparison mode), the WordPress publishing integration with SEO metadata, and migrated the whole system to a Google Cloud VM and from the deprecated `vertexai` SDK to `google-genai`.
+`Python` `Gemini` `Vertex AI` `Slack API` `WordPress REST API` `GCP` `Docker`
 
-</details>
+**Large-scale AI image enhancement**
+An image enhancement pipeline that processed ~11,000 photos for a manufacturing client using Vertex AI batch jobs.
+`Python` `Vertex AI` `Batch inference` `GCP`
 
-<details open>
-<summary><b>⚙️ MLOps & DevOps</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔌 Embedded & IoT</b></summary>
-<br>
-
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-</details>
+**Google Drive sharing audit tool**
+A resumable Google Apps Script tool that audits an organization's Drive and flags publicly shared folders.
+`Apps Script` `Google Workspace` `Security`
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently learning
 
-<div align="center">
-  
-  ![Rima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RimaAlaya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RimaAlaya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4)
-
-</div>
+RAG & vector databases · LangGraph · LLM evaluation pipelines · async Python · observability
 
 ---
 
-## 🎯 What I'm Up To
+## 🔌 Background
 
-- 🔭 Currently building: **AI deployment pipelines & MLOps workflows**
-- 🌱 Learning: **Advanced model optimization & cloud infrastructure**
-- 💬 Ask me about: **ML pipelines, IoT systems, or why embedded systems are secretly the coolest**
-- 🎲 Fun fact: I bake cakes with no recipe but *lots* of confidence (results may vary)
+Engineering degree in Microsystems & Embedded Systems: ESP32, Arduino, C, IoT. It's why I care about how systems behave in production, not just in a notebook.
 
----
-
-## 🌈 Beyond The Code
-
-When I'm not debugging or training models, you'll find me:
-
-- ☀️ Pretending to be a morning person (it's a work in progress)
-- 🍰 Baking experimental desserts
-- 🎬 Rewatching *Friends* for the millionth time
-- 🏖️ Daydreaming about beaches and Italian getaways
-- 😂 Laughing at my own jokes (someone has to)
-
-> **My vibe:** Sarcasm-fluent, coffee-dependent, perpetually curious
-
----
-
-## 💌 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rima-alaya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimaalaya76@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ✨ *"Make it work. Make it smart. Make it Rima."* ✨
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=RimaAlaya&color=ff69b4&style=for-the-badge)
-  
-  **Thanks for stopping by! Star something if you like it — good vibes deserve stars** ⭐
-  
-</div>
+Outside of code: baking cakes with no recipe and a lot of confidence 🍰
